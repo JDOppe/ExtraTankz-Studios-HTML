@@ -417,10 +417,12 @@
   color: #ffffff;
   border-width: 0px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
   background-color: #141922;
 }
 .signin-register1 {
   color: #ffffff;
+  text-decoration: none;
   background-color: #141922;
 }
 .signin-burger-menu {

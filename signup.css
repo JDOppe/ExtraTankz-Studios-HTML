@@ -404,10 +404,12 @@
   color: #ffffff;
   border-width: 0px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
   background-color: #141922;
 }
 .signup-register1 {
   color: #ffffff;
+  text-decoration: none;
   background-color: #141922;
 }
 .signup-burger-menu {
