@@ -39,19 +39,19 @@
 .toast2-fragment1 {
   display: contents;
 }
-.toast2-text1 {
+.toast2-text2 {
   display: inline-block;
 }
 .toast2-fragment2 {
   display: contents;
 }
-.toast2-text2 {
+.toast2-text3 {
   display: inline-block;
 }
 .toast2-fragment3 {
   display: contents;
 }
-.toast2-text3 {
+.toast2-text4 {
   display: inline-block;
 }
 @media(max-width: 767px) {
