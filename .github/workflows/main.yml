@@ -11,7 +11,9 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: ftpupload.net
-        username: alcy_37412798
+        protocol: sftp
+        port: 221
+        server: f27-preview.runhosting.com
+        username: 4534475
         password: ${{ secrets.password }}
-        server-dir: htdocs/
+        server-dir: extratankz.com/
