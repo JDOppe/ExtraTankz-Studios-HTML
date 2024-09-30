@@ -13,5 +13,5 @@ jobs:
       with:
         server: ftpupload.net
         username: alcy_37412798
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.password }}
         local-dir: ./htdocs/
