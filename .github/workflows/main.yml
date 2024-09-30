@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         protocol: ftp
-        port: 221
+        port: 21
         server: f27-preview.runhosting.com
         username: 4534475
         password: ${{ secrets.password }}
