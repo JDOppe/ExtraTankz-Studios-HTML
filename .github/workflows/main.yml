@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        protocol: ftps
+        protocol: ftp
         port: 221
         server: f27-preview.runhosting.com
         username: 4534475
