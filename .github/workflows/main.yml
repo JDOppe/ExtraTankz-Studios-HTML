@@ -11,8 +11,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        protocol: ftps
-        port: 221
+        protocol: ftp
+        port: 21
         server:	s12.serv00.com
         username: f9026_admin
         password: ${{ secrets.password }}
