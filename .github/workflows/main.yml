@@ -14,5 +14,5 @@ jobs:
         protocol: ftp
         port: 21
         server:	s12.serv00.com
-        username: f9026_admin
+        username: f9026_ftp
         password: ${{ secrets.password }}
