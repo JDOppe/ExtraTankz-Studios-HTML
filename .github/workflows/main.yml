@@ -13,7 +13,7 @@ jobs:
       with:
         protocol: ftp
         port: 21
-        server: f27-preview.runhosting.com
-        username: 4534475
+        server:	ftps://s12.serv00.com
+        username: f9026_admin
         password: ${{ secrets.password }}
         server-dir: extratankz.com/
