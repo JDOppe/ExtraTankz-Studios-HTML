@@ -13,7 +13,7 @@ jobs:
       with:
         protocol: ftps
         port: 221
-        server:	ftps://s12.serv00.com
+        server:	s12.serv00.com
         username: f9026_admin
         password: ${{ secrets.password }}
         server-dir: extratankz.com/
